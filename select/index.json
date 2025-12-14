@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Dangerous",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2025-12-14T10:28:01.407651Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dangerous and Sweet",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/01_Dangerous_and_Sweet_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dangerous",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/02_Dangerous_f(x).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Dangerous Business Walking Out Your Front Door",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/03_It's_Dangerous_Business_Walking_Out_Your_Front_Door_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dangerous",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/04_Dangerous_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Disco Inferno (Produced by C. Styles and Bang Out for Dangerous LLC)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/05_Disco_Inferno_(Produced_by_C._Styles_and_Bang_Out_for_Dangerous_LLC)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In My Hood (Produced by C. Styles and Bang Out for Dangerous LLC)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/06_In_My_Hood_(Produced_by_C._Styles_and_Bang_Out_for_Dangerous_LLC)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "hope is a dangerous thing for a woman like me to have - but I have it",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/07_hope_is_a_dangerous_thing_for_a_woman_like_me_to_have_-_but_I_have_it_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dangerous Blues",
+      "artist": "The Young Veins",
+      "has_synced": true,
+      "path": "select/08_Dangerous_Blues_The_Young_Veins.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dangerous",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/09_Dangerous_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dangerous Mouths",
+      "artist": "Redman feat. Missy Elliott",
+      "has_synced": false,
+      "path": "select/10_Dangerous_Mouths_Redman_feat._Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dangerous Mouths (feat. Redman)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/11_Dangerous_Mouths_(feat._Redman)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dangerous",
+      "artist": "S-X",
+      "has_synced": true,
+      "path": "select/12_Dangerous_S-X.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Travel Is Dangerous",
+      "artist": "Mogwai",
+      "has_synced": true,
+      "path": "select/13_Travel_Is_Dangerous_Mogwai.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Armed and Dangerous",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/14_Armed_and_Dangerous_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Armed and Dangerous",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/15_Armed_and_Dangerous_Anthrax.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dangerous",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Dangerous_Michael_Jackson.txt"
+    }
+  ]
+}
